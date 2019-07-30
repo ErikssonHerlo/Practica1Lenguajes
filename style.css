@@ -1,0 +1,44 @@
+
+body{
+    width: 960px;
+    margin: 0 auto;
+}
+h1{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+#pantalla{
+    margin-left: 30%;
+    border: groove 8px black;
+    background:green;   
+}
+#boton{
+
+    background-color: green;
+    width: 1000;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    font-weight: bolder;
+    padding: 3px;
+    border: solid 2px black;
+}
+#boton:hover{ /* Estilo que se activa al pasar el puntero sobre el boton */
+    margin-left: 30%;  
+    background-color: lightgreen;
+    font-size: 22px;
+    border: groove 4px green;
+}
+#contenedor2{
+    margin-left: 0%;
+    background-color:lightblue;
+    text-align: center;
+    font-weight: bolder;
+    padding: 3px;
+    border: solid 8px black;
+}
